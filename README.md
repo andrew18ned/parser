@@ -1,5 +1,8 @@
 # parser
 
-Простий парсер, який зчитує дані з сайту Марвел та додує у файл csv, щоб можна було відкривати у Exel. 
-Проблема була у тому, що я не міг зпарсити JS script. Воно не відображалося у index.html 
+Simple parser. To parse date in site Heros Marvel, save to format cvs.  
+
+
+PS:           
+Проблема у тому, що я не міг зпарсити JS script. 
 Не було пагінації через url. 
